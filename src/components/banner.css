@@ -1,0 +1,9 @@
+.ban {
+    width: 1700px;
+    height: 150px;
+    cursor: pointer;
+}
+
+.ban:hover {
+    transform: scaleY(2);
+}
